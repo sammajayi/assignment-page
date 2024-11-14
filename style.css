@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: white;
+  /* background-color: grey; */
   margin: 30px auto;
   display: flex;
   flex-direction: column;
@@ -40,12 +40,11 @@ a {
   text-decoration: none;
   font-weight: 800;
   font-size: x-large;
- 
   color: brown;
 }
 
 a:hover {
-  background-color: rgb(34, 10, 10);
+color: rgb(34, 10, 10);
 }
 
 ol {
